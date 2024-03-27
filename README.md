@@ -1,4 +1,4 @@
-# OCD_Patient_DP
+# Differentially Private Analysis of OCD Patient Dataset
 Exploration of different methods for implementing differential privacy on a database of OCD patients
 
 Collaborators: Catie Crowell, Johnna Schulz
